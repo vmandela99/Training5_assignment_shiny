@@ -1,0 +1,18 @@
+---
+title: "Shiny and Website Project"
+author: "Victor Mandela"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+The project has two tasks due on 3rd July 2020.
+
+1. Create your own profile website using the theme from here.
+
+[assign1](https://github.com/eddiewebb/hugo-resume)
+
+2. Develop a shiny application for the following link:-
+
+[assign2](https://github.com/vmandela99/Monitoring-and-evaluation-2/blob/master/Victor%20Final%20Dataset.csv)
